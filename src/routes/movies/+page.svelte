@@ -10,7 +10,7 @@
 	<table class="table table-striped table-hover">
 		<thead>
 		<tr>
-			<th>Types</th>
+			<th>Title</th>
 			<th>Release Date</th>
 			<th>Rating</th>
 		</tr>

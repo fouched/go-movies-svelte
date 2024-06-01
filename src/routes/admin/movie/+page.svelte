@@ -1,4 +1,4 @@
 <div>
-	<h2>Edit Types</h2>
+	<h2>Edit Movie</h2>
 	<hr/>
 </div>
